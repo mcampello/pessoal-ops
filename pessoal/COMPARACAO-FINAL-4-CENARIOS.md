@@ -20,7 +20,7 @@
 |---------|------------------|--------------|------------------|----------------|
 | **1. Tracker → Dolphin** | R$ 31.500 | R$ 5.940 | **-R$ 556** ✅ | R$ 81.243 |
 | **2. Tracker → King GS** | R$ 45.000 | R$ 6.713 | +R$ 217 | R$ 79.928 |
-| **3. Tracker → Song** | R$ 45.000 | R$ 6.676 | +R$ 180 | R$ 97.240 |
+| **3. Tracker → Song** | R$ 45.000 | R$ 6.792 | +R$ 296 | R$ 97.240 |
 | **4. Onix → Dolphin** | R$ 29.500 | R$ 6.575 | +R$ 79 | R$ 71.772 |
 | **5. Tracker+Onix → Dolphin+Song** | R$ 74.500 | R$ 8.214 | +R$ 1.718 | R$ 88.000 |
 
@@ -202,7 +202,7 @@
 | Manutenção | R$ 150,00 |
 | **TOTAL ONIX** | **R$ 2.423,00** |
 
-**TOTAL MENSAL (2 carros)**: **R$ 6.676,18**
+**TOTAL MENSAL (2 carros)**: **R$ 6.791,68**
 
 ---
 
@@ -211,15 +211,15 @@
 | Situação | Custo Mensal (R$) |
 |----------|-------------------|
 | **Atual (Tracker + Onix)** | R$ 6.496,00 |
-| **Novo (Song + Onix)** | R$ 6.676,18 |
-| **DIFERENÇA** | **+R$ 180,18/mês** |
+| **Novo (Song + Onix)** | R$ 6.791,68 |
+| **DIFERENÇA** | **+R$ 295,68/mês** |
 
 ---
 
 ### ✅ Resultado
 
 - **Desembolso**: R$ 45.000
-- **Gasto Mensal**: +R$ 180,18
+- **Gasto Mensal**: +R$ 295,68
 - **Economia 3 Anos**: R$ 97.240
 - **ROI**: 216%
 
@@ -390,7 +390,7 @@
 
 ### 3️⃣ **CENÁRIO 3: Tracker → Song** ⭐
 - ⚠️ Desembolso médio (R$ 45.000)
-- ⚠️ Aumento mensal (+R$ 180/mês)
+- ⚠️ Aumento mensal (+R$ 296/mês) - **MAIS CARO que King GS**
 - ✅ Maior economia 3 anos (R$ 97.240)
 - ⚠️ Risco IPVA voltar (+R$ 667/mês)
 
@@ -447,8 +447,8 @@
 ```
 CENÁRIO 1 (Tracker → Dolphin):     -R$ 556/mês  ✅ MELHOR
 CENÁRIO 4 (Onix → Dolphin):        +R$  79/mês  ✅ BOM
-CENÁRIO 3 (Tracker → Song):        +R$ 180/mês  ⚠️ OK
 CENÁRIO 2 (Tracker → King GS):     +R$ 217/mês  ⚠️ OK
+CENÁRIO 3 (Tracker → Song):        +R$ 296/mês  ⚠️ MAIS CARO
 CENÁRIO 5 (Ambos → Dolphin+Song):  +R$ 1.718/mês ❌ ALTO
 ```
 
