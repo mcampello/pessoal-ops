@@ -1,4 +1,4 @@
-# Comparação Final - 4 Cenários de Troca
+# Comparação Final - 5 Cenários de Troca
 
 **Data**: Janeiro 2026  
 **Situação Atual**: Tracker 2024 (66k km) + Onix 2020 (100k km)  
@@ -19,9 +19,10 @@
 | Cenário | Desembolso Total | Custo Mensal | Diferença Mensal | Economia 3 Anos |
 |---------|------------------|--------------|------------------|----------------|
 | **1. Tracker → Dolphin** | R$ 31.500 | R$ 5.940 | **-R$ 556** ✅ | R$ 81.243 |
-| **2. Tracker → Song** | R$ 45.000 | R$ 6.676 | +R$ 180 | R$ 97.240 |
-| **3. Onix → Dolphin** | R$ 29.500 | R$ 6.575 | +R$ 79 | R$ 71.772 |
-| **4. Tracker+Onix → Dolphin+Song** | R$ 74.500 | R$ 8.214 | +R$ 1.718 | R$ 88.000 |
+| **2. Tracker → King GS** | R$ 45.000 | R$ 6.713 | +R$ 217 | R$ 79.928 |
+| **3. Tracker → Song** | R$ 45.000 | R$ 6.676 | +R$ 180 | R$ 97.240 |
+| **4. Onix → Dolphin** | R$ 29.500 | R$ 6.575 | +R$ 79 | R$ 71.772 |
+| **5. Tracker+Onix → Dolphin+Song** | R$ 74.500 | R$ 8.214 | +R$ 1.718 | R$ 88.000 |
 
 ---
 
@@ -92,7 +93,74 @@
 
 ---
 
-## 📋 CENÁRIO 2: TROCAR TRACKER POR SONG PRO GS
+## 📋 CENÁRIO 2: TROCAR TRACKER POR KING GS
+
+**Situação**: Troca Tracker, mantém Onix
+
+### 💰 Desembolso Total
+
+| Item | Valor (R$) |
+|------|-----------|
+| Equity Tracker | R$ 22.000 |
+| Entrada King GS | R$ 67.000 |
+| Desembolso Adicional | R$ 45.000 |
+| **DESEMBOLSO TOTAL** | **R$ 45.000** |
+
+**Financiamento King GS**: 48x R$ 3.190,34 (Taxa 1,46% a.m.)
+
+---
+
+### 💵 Custo Mensal Detalhado
+
+**King GS (2.240 km/mês - vai para SP):**
+| Item | Valor Mensal (R$) |
+|------|-------------------|
+| Financiamento | R$ 3.190,34 |
+| Energia Elétrica | R$ 70,00 |
+| Combustível | R$ 221,43 |
+| Pedágio | R$ 208,00 |
+| Seguro | R$ 500,00 |
+| IPVA | R$ 0,00 (isento BYD 2025) |
+| Manutenção | R$ 100,00 |
+| **TOTAL KING GS** | **R$ 4.289,77** |
+
+**Onix (600 km/mês - uso reduzido):**
+| Item | Valor Mensal (R$) |
+|------|-------------------|
+| Financiamento | R$ 1.490,00 |
+| Combustível | R$ 413,33 |
+| Pedágio | R$ 0,00 |
+| Seguro | R$ 203,00 |
+| IPVA | R$ 66,67 |
+| Manutenção | R$ 150,00 |
+| **TOTAL ONIX** | **R$ 2.423,00** |
+
+**TOTAL MENSAL (2 carros)**: **R$ 6.712,77**
+
+---
+
+### 📊 Comparação Mensal
+
+| Situação | Custo Mensal (R$) |
+|----------|-------------------|
+| **Atual (Tracker + Onix)** | R$ 6.496,00 |
+| **Novo (King GS + Onix)** | R$ 6.712,77 |
+| **DIFERENÇA** | **+R$ 216,77/mês** |
+
+---
+
+### ✅ Resultado
+
+- **Desembolso**: R$ 45.000
+- **Gasto Mensal**: +R$ 216,77
+- **Economia 3 Anos**: R$ 79.928
+- **ROI**: 178%
+
+**⚠️ ATENÇÃO**: Se IPVA voltar em 2026/2027: +R$ 553/mês adicional
+
+---
+
+## 📋 CENÁRIO 3: TROCAR TRACKER POR SONG PRO GS
 
 **Situação**: Troca Tracker, mantém Onix
 
@@ -159,7 +227,7 @@
 
 ---
 
-## 📋 CENÁRIO 3: TROCAR ONIX POR DOLPHIN MINI
+## 📋 CENÁRIO 4: TROCAR ONIX POR DOLPHIN MINI
 
 **Situação**: Troca Onix, mantém Tracker
 
@@ -226,7 +294,7 @@
 
 ---
 
-## 📋 CENÁRIO 4: TROCAR TRACKER + ONIX POR DOLPHIN MINI + SONG PRO GS
+## 📋 CENÁRIO 5: TROCAR TRACKER + ONIX POR DOLPHIN MINI + SONG PRO GS
 
 **Situação**: Troca ambos os carros
 
@@ -314,19 +382,25 @@
 - ✅ Melhor ROI (258%)
 - ✅ Economia 3 anos: R$ 81.243
 
-### 2️⃣ **CENÁRIO 3: Onix → Dolphin** ⭐⭐
+### 2️⃣ **CENÁRIO 4: Onix → Dolphin** ⭐⭐
 - ✅ Menor desembolso (R$ 29.500)
 - ✅ Aumento mensal mínimo (+R$ 79/mês)
 - ✅ Economia 3 anos: R$ 71.772
 - ✅ ROI: 243%
 
-### 3️⃣ **CENÁRIO 2: Tracker → Song** ⭐
+### 3️⃣ **CENÁRIO 3: Tracker → Song** ⭐
 - ⚠️ Desembolso médio (R$ 45.000)
 - ⚠️ Aumento mensal (+R$ 180/mês)
 - ✅ Maior economia 3 anos (R$ 97.240)
 - ⚠️ Risco IPVA voltar (+R$ 667/mês)
 
-### 4️⃣ **CENÁRIO 4: Tracker+Onix → Dolphin+Song** ❌
+### 4️⃣ **CENÁRIO 2: Tracker → King GS** ⭐
+- ⚠️ Desembolso médio (R$ 45.000)
+- ⚠️ Aumento mensal (+R$ 217/mês)
+- ✅ Economia 3 anos: R$ 79.928
+- ⚠️ Risco IPVA voltar (+R$ 553/mês)
+
+### 5️⃣ **CENÁRIO 5: Tracker+Onix → Dolphin+Song** ❌
 - ❌ Maior desembolso (R$ 74.500)
 - ❌ Maior aumento mensal (+R$ 1.718/mês)
 - ⚠️ Economia 3 anos: R$ 88.000
@@ -354,7 +428,7 @@
 
 ---
 
-### 🥈 **SEGUNDA OPÇÃO: CENÁRIO 3 - Trocar Onix por Dolphin Mini**
+### 🥈 **SEGUNDA OPÇÃO: CENÁRIO 4 - Trocar Onix por Dolphin Mini**
 
 **Por quê?**
 1. ✅ Menor desembolso de todos (R$ 29.500)
@@ -372,9 +446,10 @@
 
 ```
 CENÁRIO 1 (Tracker → Dolphin):     -R$ 556/mês  ✅ MELHOR
-CENÁRIO 3 (Onix → Dolphin):        +R$  79/mês  ✅ BOM
-CENÁRIO 2 (Tracker → Song):        +R$ 180/mês  ⚠️ OK
-CENÁRIO 4 (Ambos → Dolphin+Song):  +R$ 1.718/mês ❌ ALTO
+CENÁRIO 4 (Onix → Dolphin):        +R$  79/mês  ✅ BOM
+CENÁRIO 3 (Tracker → Song):        +R$ 180/mês  ⚠️ OK
+CENÁRIO 2 (Tracker → King GS):     +R$ 217/mês  ⚠️ OK
+CENÁRIO 5 (Ambos → Dolphin+Song):  +R$ 1.718/mês ❌ ALTO
 ```
 
 ---
@@ -382,10 +457,11 @@ CENÁRIO 4 (Ambos → Dolphin+Song):  +R$ 1.718/mês ❌ ALTO
 ## ⚠️ OBSERVAÇÕES IMPORTANTES
 
 1. **IPVA Song Pro GS**: Pode voltar em 2026/2027 (+R$ 667/mês)
-2. **IPVA Dolphin Mini**: Fixo R$ 400/mês (R$ 4.800/ano)
-3. **Carregador**: Necessário apenas para Dolphin Mini (R$ 3.500)
-4. **Uso reduzido**: Carro mantido roda apenas 600 km/mês (economia significativa)
-5. **Cenário 4**: Custo mensal muito alto, não recomendado a menos que tenha necessidade específica de 2 carros novos
+2. **IPVA King GS**: Pode voltar em 2026/2027 (+R$ 553/mês)
+3. **IPVA Dolphin Mini**: Fixo R$ 400/mês (R$ 4.800/ano)
+4. **Carregador**: Necessário apenas para Dolphin Mini (R$ 3.500)
+5. **Uso reduzido**: Carro mantido roda apenas 600 km/mês (economia significativa)
+6. **Cenário 5**: Custo mensal muito alto, não recomendado a menos que tenha necessidade específica de 2 carros novos
 
 ---
 
