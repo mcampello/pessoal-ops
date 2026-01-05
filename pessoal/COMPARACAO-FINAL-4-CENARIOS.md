@@ -106,7 +106,12 @@
 | Desembolso Adicional | R$ 45.000 |
 | **DESEMBOLSO TOTAL** | **R$ 45.000** |
 
+**Preço King GS**: R$ 175.990  
+**Bônus**: R$ 10.000  
+**Preço Final**: R$ 165.990  
 **Financiamento King GS**: 48x R$ 3.190,34 (Taxa 1,46% a.m.)
+
+**✅ VANTAGEM**: King GS é mais barato que Song Pro GS (R$ 165.990 vs R$ 199.990) e tem bônus de R$ 10.000, resultando em parcela menor!
 
 ---
 
@@ -173,7 +178,10 @@
 | Desembolso Adicional | R$ 45.000 |
 | **DESEMBOLSO TOTAL** | **R$ 45.000** |
 
+**Preço Song Pro GS**: R$ 199.990  
 **Financiamento Song Pro GS**: 60x R$ 3.285,90 (Taxa 1,1% a.m.)
+
+**⚠️ ATENÇÃO**: Song Pro GS é mais caro que King GS (R$ 199.990 vs R$ 165.990) e não tem bônus, resultando em parcela maior e mais parcelas!
 
 ---
 
@@ -388,17 +396,23 @@
 - ✅ Economia 3 anos: R$ 71.772
 - ✅ ROI: 243%
 
-### 3️⃣ **CENÁRIO 3: Tracker → Song** ⭐
-- ⚠️ Desembolso médio (R$ 45.000)
-- ⚠️ Aumento mensal (+R$ 296/mês) - **MAIS CARO que King GS**
-- ✅ Maior economia 3 anos (R$ 97.240)
-- ⚠️ Risco IPVA voltar (+R$ 667/mês)
-
-### 4️⃣ **CENÁRIO 2: Tracker → King GS** ⭐
+### 3️⃣ **CENÁRIO 2: Tracker → King GS** ⭐⭐
+- ✅ **Mais barato** que Song (R$ 165.990 vs R$ 199.990)
+- ✅ **Bônus de R$ 10.000** (melhor condição de entrada)
+- ✅ Parcela menor (R$ 3.190 vs R$ 3.286 do Song)
 - ⚠️ Desembolso médio (R$ 45.000)
 - ⚠️ Aumento mensal (+R$ 217/mês)
 - ✅ Economia 3 anos: R$ 79.928
 - ⚠️ Risco IPVA voltar (+R$ 553/mês)
+
+### 4️⃣ **CENÁRIO 3: Tracker → Song** ⭐
+- ❌ **Mais caro** que King GS (R$ 199.990 vs R$ 165.990)
+- ❌ **Sem bônus** (pior condição)
+- ❌ Parcela maior (R$ 3.286 vs R$ 3.190 do King)
+- ⚠️ Desembolso médio (R$ 45.000)
+- ⚠️ Aumento mensal (+R$ 296/mês) - **MAIS CARO que King GS**
+- ✅ Maior economia 3 anos (R$ 97.240)
+- ⚠️ Risco IPVA voltar (+R$ 667/mês)
 
 ### 5️⃣ **CENÁRIO 5: Tracker+Onix → Dolphin+Song** ❌
 - ❌ Maior desembolso (R$ 74.500)
@@ -447,8 +461,8 @@
 ```
 CENÁRIO 1 (Tracker → Dolphin):     -R$ 556/mês  ✅ MELHOR
 CENÁRIO 4 (Onix → Dolphin):        +R$  79/mês  ✅ BOM
-CENÁRIO 2 (Tracker → King GS):     +R$ 217/mês  ⚠️ OK
-CENÁRIO 3 (Tracker → Song):        +R$ 296/mês  ⚠️ MAIS CARO
+CENÁRIO 2 (Tracker → King GS):     +R$ 217/mês  ✅ MAIS BARATO (com bônus)
+CENÁRIO 3 (Tracker → Song):        +R$ 296/mês  ⚠️ MAIS CARO (sem bônus)
 CENÁRIO 5 (Ambos → Dolphin+Song):  +R$ 1.718/mês ❌ ALTO
 ```
 
