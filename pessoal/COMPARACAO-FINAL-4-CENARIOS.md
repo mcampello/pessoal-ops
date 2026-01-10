@@ -19,10 +19,10 @@
 | Cenário | Desembolso Total | Custo Mensal | Diferença Mensal | Economia 3 Anos |
 |---------|------------------|--------------|------------------|----------------|
 | **1. Tracker → Dolphin** | R$ 31.500 | R$ 5.984 | **-R$ 512** ✅ | R$ 74.627 |
-| **2. Tracker → King GS** | R$ 45.000 | R$ 6.757 | +R$ 261 | R$ 73.156 |
-| **3. Tracker → Song** | R$ 45.000 | R$ 6.836 | +R$ 340 | R$ 90.356 |
+| **2. Tracker → King GS** | R$ 45.000 | R$ 7.344 | +R$ 848 | **-R$ 75.522** ❌ |
+| **3. Tracker → Song** | R$ 45.000 | R$ 7.387 | +R$ 891 | **-R$ 77.085** ❌ |
 | **4. Onix → Dolphin** | R$ 29.500 | R$ 6.575 | +R$ 79 | R$ 71.772 |
-| **5. Tracker+Onix → Dolphin+Song** | R$ 74.500 | R$ 8.214 | +R$ 1.718 | R$ 88.000 |
+| **5. Tracker+Onix → Dolphin+Song** | R$ 74.500 | R$ 8.881 | +R$ 2.385 | **-R$ 160.353** ❌ |
 
 ---
 
@@ -126,9 +126,9 @@
 | Combustível | R$ 221,43 |
 | Pedágio | R$ 208,00 |
 | Seguro | R$ 500,00 |
-| IPVA | R$ 0,00 (isento BYD 2025) |
+| IPVA | R$ 586,63 (4% SP) |
 | Manutenção | R$ 100,00 |
-| **TOTAL KING GS** | **R$ 4.289,77** |
+| **TOTAL KING GS** | **R$ 4.876,40** |
 
 **Onix (600 km/mês - uso reduzido):**
 | Item | Valor Mensal (R$) |
@@ -142,7 +142,7 @@
 | Manutenção Prevista (AC + Suspensão) | R$ 44,44 |
 | **TOTAL ONIX** | **R$ 2.467,44** |
 
-**TOTAL MENSAL (2 carros)**: **R$ 6.757,21**
+**TOTAL MENSAL (2 carros)**: **R$ 7.343,84**
 
 ---
 
@@ -151,19 +151,17 @@
 | Situação | Custo Mensal (R$) |
 |----------|-------------------|
 | **Atual (Tracker + Onix)** | R$ 6.496,00 |
-| **Novo (King GS + Onix)** | R$ 6.757,21 |
-| **DIFERENÇA** | **+R$ 261,21/mês** |
+| **Novo (King GS + Onix)** | R$ 7.343,84 |
+| **DIFERENÇA** | **+R$ 847,84/mês** |
 
 ---
 
 ### ✅ Resultado
 
 - **Desembolso**: R$ 45.000
-- **Gasto Mensal**: +R$ 261,21
-- **Economia 3 Anos**: R$ 73.156
-- **ROI**: 163%
-
-**⚠️ ATENÇÃO**: Se IPVA voltar em 2026/2027: +R$ 553/mês adicional
+- **Gasto Mensal**: +R$ 847,84
+- **Gasto Total 3 Anos**: R$ 75.522 (R$ 30.522 em custos mensais + R$ 45.000 desembolso)
+- **ROI**: Negativo (investimento não se paga)
 
 ---
 
@@ -213,7 +211,7 @@
 | Manutenção Prevista (AC + Suspensão) | R$ 44,44 |
 | **TOTAL ONIX** | **R$ 2.467,44** |
 
-**TOTAL MENSAL (2 carros)**: **R$ 6.836,12**
+**TOTAL MENSAL (2 carros)**: **R$ 7.387,25**
 
 ---
 
@@ -222,19 +220,17 @@
 | Situação | Custo Mensal (R$) |
 |----------|-------------------|
 | **Atual (Tracker + Onix)** | R$ 6.496,00 |
-| **Novo (Song + Onix)** | R$ 6.836,12 |
-| **DIFERENÇA** | **+R$ 340,12/mês** |
+| **Novo (Song + Onix)** | R$ 7.387,25 |
+| **DIFERENÇA** | **+R$ 891,25/mês** |
 
 ---
 
 ### ✅ Resultado
 
 - **Desembolso**: R$ 45.000
-- **Gasto Mensal**: +R$ 340,12
-- **Economia 3 Anos**: R$ 90.356
-- **ROI**: 201%
-
-**⚠️ ATENÇÃO**: Se IPVA voltar em 2026/2027: +R$ 667/mês adicional
+- **Gasto Mensal**: +R$ 891,25
+- **Gasto Total 3 Anos**: R$ 77.085 (R$ 32.085 em custos mensais + R$ 45.000 desembolso)
+- **ROI**: Negativo (investimento não se paga)
 
 ---
 
@@ -352,11 +348,11 @@
 | Combustível | R$ 59,28 |
 | Pedágio | R$ 208,00 |
 | Seguro | R$ 500,00 |
-| IPVA | R$ 0,00 (isento BYD 2025) |
+| IPVA | R$ 666,63 (4% SP) |
 | Manutenção | R$ 100,00 |
-| **TOTAL SONG** | **R$ 4.253,18** |
+| **TOTAL SONG** | **R$ 4.919,81** |
 
-**TOTAL MENSAL (2 carros)**: **R$ 8.214,18**
+**TOTAL MENSAL (2 carros)**: **R$ 8.880,81**
 
 ---
 
@@ -365,8 +361,8 @@
 | Situação | Custo Mensal (R$) |
 |----------|-------------------|
 | **Atual (Tracker + Onix)** | R$ 6.496,00 |
-| **Novo (Dolphin + Song)** | R$ 8.214,18 |
-| **DIFERENÇA** | **+R$ 1.718,18/mês** |
+| **Novo (Dolphin + Song)** | R$ 8.880,81 |
+| **DIFERENÇA** | **+R$ 2.384,81/mês** |
 
 **⚠️ ATENÇÃO**: Custo mensal muito maior!
 
@@ -375,13 +371,9 @@
 ### ✅ Resultado
 
 - **Desembolso**: R$ 74.500
-- **Gasto Mensal**: +R$ 1.718,18
-- **Economia 3 Anos**: R$ 88.000
-- **ROI**: 118%
-
-**⚠️ ATENÇÃO**: 
-- Se IPVA Song Pro GS voltar em 2026/2027: +R$ 667/mês adicional
-- Custo mensal total poderia chegar a R$ 8.881,18
+- **Gasto Mensal**: +R$ 2.384,81
+- **Gasto Total 3 Anos**: R$ 160.353 (R$ 85.853 em custos mensais + R$ 74.500 desembolso)
+- **ROI**: Negativo (investimento não se paga)
 
 ---
 
@@ -399,30 +391,32 @@
 - ✅ Economia 3 anos: R$ 71.772
 - ✅ ROI: 243%
 
-### 3️⃣ **CENÁRIO 2: Tracker → King GS** ⭐⭐
+### 3️⃣ **CENÁRIO 2: Tracker → King GS** ❌
 - ✅ **Mais barato** que Song (R$ 165.990 vs R$ 199.990)
 - ✅ **Bônus de R$ 10.000** (melhor condição de entrada)
 - ✅ Parcela menor (R$ 3.190 vs R$ 3.286 do Song)
 - ⚠️ Desembolso médio (R$ 45.000)
-- ⚠️ Aumento mensal (+R$ 261/mês)
-- ✅ Economia 3 anos: R$ 73.156
-- ⚠️ Risco IPVA voltar (+R$ 553/mês)
+- ❌ Aumento mensal muito alto (+R$ 848/mês)
+- ❌ **PREJUÍZO em 3 anos**: -R$ 75.522
+- ❌ IPVA: R$ 586,63/mês (R$ 7.040/ano) - **SEM ISENÇÃO**
+- ❌ ROI negativo (investimento não se paga)
 
-### 4️⃣ **CENÁRIO 3: Tracker → Song** ⭐
+### 4️⃣ **CENÁRIO 3: Tracker → Song** ❌
 - ❌ **Mais caro** que King GS (R$ 199.990 vs R$ 165.990)
 - ❌ **Sem bônus** (pior condição)
 - ❌ Parcela maior (R$ 3.286 vs R$ 3.190 do King)
 - ⚠️ Desembolso médio (R$ 45.000)
-- ⚠️ Aumento mensal (+R$ 340/mês) - **MAIS CARO que King GS**
-- ✅ Maior economia 3 anos (R$ 90.356)
-- ⚠️ Risco IPVA voltar (+R$ 667/mês)
+- ❌ Aumento mensal muito alto (+R$ 891/mês) - **MAIS CARO que King GS**
+- ❌ **PREJUÍZO em 3 anos**: -R$ 77.085
+- ❌ IPVA: R$ 666,63/mês (R$ 7.999/ano) - **SEM ISENÇÃO**
+- ❌ ROI negativo (investimento não se paga)
 
 ### 5️⃣ **CENÁRIO 5: Tracker+Onix → Dolphin+Song** ❌
 - ❌ Maior desembolso (R$ 74.500)
-- ❌ Maior aumento mensal (+R$ 1.718/mês)
-- ⚠️ Economia 3 anos: R$ 88.000
-- ❌ Pior ROI (118%)
-- ❌ Risco IPVA Song voltar (+R$ 667/mês)
+- ❌ Maior aumento mensal (+R$ 2.385/mês)
+- ❌ **PREJUÍZO em 3 anos**: -R$ 160.353
+- ❌ Pior ROI (investimento não se paga)
+- ❌ IPVA Song: R$ 666,63/mês (R$ 7.999/ano) - **SEM ISENÇÃO**
 
 ---
 
@@ -460,27 +454,44 @@
 
 ---
 
+### ❌ **NÃO RECOMENDADOS: CENÁRIOS 2, 3 e 5 (King GS e Song Pro GS)**
+
+**Por quê não?**
+1. ❌ **IPVA muito alto** (SEM ISENÇÃO em 2026):
+   - King GS: R$ 586,63/mês (R$ 7.040/ano)
+   - Song Pro GS: R$ 666,63/mês (R$ 7.999/ano)
+2. ❌ **Aumento mensal muito alto**: +R$ 848 a +R$ 2.385/mês
+3. ❌ **PREJUÍZO em 3 anos**: -R$ 75.522 a -R$ 160.353
+4. ❌ **ROI negativo**: Investimento não se paga
+5. ❌ Mesmo com bônus de R$ 10.000 do King GS, o IPVA torna a troca inviável
+
+**⚠️ CONCLUSÃO**: Híbridos plug-in BYD (King GS e Song Pro GS) **NÃO valem a pena** devido ao IPVA de 4% sobre o valor venal, que elimina qualquer economia em combustível.
+
+---
+
 ## 📊 RESUMO VISUAL
 
 ```
 CENÁRIO 1 (Tracker → Dolphin):     -R$ 512/mês  ✅ MELHOR
 CENÁRIO 4 (Onix → Dolphin):        +R$  79/mês  ✅ BOM
-CENÁRIO 2 (Tracker → King GS):     +R$ 261/mês  ✅ MAIS BARATO (com bônus)
-CENÁRIO 3 (Tracker → Song):        +R$ 340/mês  ⚠️ MAIS CARO (sem bônus)
-CENÁRIO 5 (Ambos → Dolphin+Song):  +R$ 1.718/mês ❌ ALTO
+CENÁRIO 2 (Tracker → King GS):     +R$ 848/mês  ⚠️ ALTO (IPVA R$ 587/mês)
+CENÁRIO 3 (Tracker → Song):        +R$ 891/mês  ❌ ALTO (IPVA R$ 667/mês)
+CENÁRIO 5 (Ambos → Dolphin+Song):  +R$ 2.385/mês ❌ MUITO ALTO
 ```
 
 ---
 
 ## ⚠️ OBSERVAÇÕES IMPORTANTES
 
-1. **IPVA Song Pro GS**: Pode voltar em 2026/2027 (+R$ 667/mês)
-2. **IPVA King GS**: Pode voltar em 2026/2027 (+R$ 553/mês)
-3. **IPVA Dolphin Mini**: Fixo R$ 400/mês (R$ 4.800/ano)
-4. **Carregador**: Necessário apenas para Dolphin Mini (R$ 3.500)
-5. **Uso reduzido**: Carro mantido roda apenas 600 km/mês (economia significativa)
-6. **Cenário 5**: Custo mensal muito alto, não recomendado a menos que tenha necessidade específica de 2 carros novos
-7. **Manutenção Prevista Onix**: Ar condicionado (R$ 1.000) + Suspensão (R$ 600) = R$ 1.600 total, mensalizado em 36 meses = R$ 44,44/mês (incluído nos cenários que mantêm o Onix)
+1. **IPVA em São Paulo**: 4% do valor venal do veículo (SEM ISENÇÃO para híbridos BYD em 2026)
+   - **King GS** (R$ 175.990): R$ 7.040/ano = **R$ 586,63/mês**
+   - **Song Pro GS** (R$ 199.990): R$ 7.999/ano = **R$ 666,63/mês**
+   - **Dolphin Mini** (R$ 119.990): R$ 4.800/ano = **R$ 400/mês**
+2. **Carregador**: Necessário apenas para Dolphin Mini (R$ 3.500)
+3. **Uso reduzido**: Carro mantido roda apenas 600 km/mês (economia significativa)
+4. **Cenário 5**: Custo mensal muito alto (+R$ 2.385/mês) e PREJUÍZO em 3 anos, não recomendado
+5. **Cenários King GS e Song**: Aumento mensal muito alto devido ao IPVA, ROI baixo ou negativo
+6. **Manutenção Prevista Onix**: Ar condicionado (R$ 1.000) + Suspensão (R$ 600) = R$ 1.600 total, mensalizado em 36 meses = R$ 44,44/mês (incluído nos cenários que mantêm o Onix)
 
 ---
 
