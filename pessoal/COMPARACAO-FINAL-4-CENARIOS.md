@@ -18,9 +18,9 @@
 
 | Cenário | Desembolso Total | Custo Mensal | Diferença Mensal | Economia 3 Anos |
 |---------|------------------|--------------|------------------|----------------|
-| **1. Tracker → Dolphin** | R$ 31.500 | R$ 5.940 | **-R$ 556** ✅ | R$ 81.243 |
-| **2. Tracker → King GS** | R$ 45.000 | R$ 6.713 | +R$ 217 | R$ 79.928 |
-| **3. Tracker → Song** | R$ 45.000 | R$ 6.792 | +R$ 296 | R$ 97.240 |
+| **1. Tracker → Dolphin** | R$ 31.500 | R$ 5.984 | **-R$ 512** ✅ | R$ 74.627 |
+| **2. Tracker → King GS** | R$ 45.000 | R$ 6.757 | +R$ 261 | R$ 73.156 |
+| **3. Tracker → Song** | R$ 45.000 | R$ 6.836 | +R$ 340 | R$ 90.356 |
 | **4. Onix → Dolphin** | R$ 29.500 | R$ 6.575 | +R$ 79 | R$ 71.772 |
 | **5. Tracker+Onix → Dolphin+Song** | R$ 74.500 | R$ 8.214 | +R$ 1.718 | R$ 88.000 |
 
@@ -66,9 +66,10 @@
 | Seguro | R$ 203,00 |
 | IPVA | R$ 66,67 |
 | Manutenção | R$ 150,00 |
-| **TOTAL ONIX** | **R$ 2.423,00** |
+| Manutenção Prevista (AC + Suspensão) | R$ 44,44 |
+| **TOTAL ONIX** | **R$ 2.467,44** |
 
-**TOTAL MENSAL (2 carros)**: **R$ 5.940,00**
+**TOTAL MENSAL (2 carros)**: **R$ 5.984,13**
 
 ---
 
@@ -77,17 +78,17 @@
 | Situação | Custo Mensal (R$) |
 |----------|-------------------|
 | **Atual (Tracker + Onix)** | R$ 6.496,00 |
-| **Novo (Dolphin + Onix)** | R$ 5.940,00 |
-| **DIFERENÇA** | **-R$ 556,00/mês** ✅ **ECONOMIA!** |
+| **Novo (Dolphin + Onix)** | R$ 5.984,13 |
+| **DIFERENÇA** | **-R$ 511,87/mês** ✅ **ECONOMIA!** |
 
 ---
 
 ### ✅ Resultado
 
 - **Desembolso**: R$ 31.500
-- **Economia Mensal**: -R$ 556,00
-- **Economia 3 Anos**: R$ 81.243
-- **ROI**: 258%
+- **Economia Mensal**: -R$ 511,87
+- **Economia 3 Anos**: R$ 74.627
+- **ROI**: 237%
 
 **⭐ MELHOR OPÇÃO - ÚNICA QUE REDUZ CUSTO MENSAL!**
 
@@ -138,9 +139,10 @@
 | Seguro | R$ 203,00 |
 | IPVA | R$ 66,67 |
 | Manutenção | R$ 150,00 |
-| **TOTAL ONIX** | **R$ 2.423,00** |
+| Manutenção Prevista (AC + Suspensão) | R$ 44,44 |
+| **TOTAL ONIX** | **R$ 2.467,44** |
 
-**TOTAL MENSAL (2 carros)**: **R$ 6.712,77**
+**TOTAL MENSAL (2 carros)**: **R$ 6.757,21**
 
 ---
 
@@ -149,17 +151,17 @@
 | Situação | Custo Mensal (R$) |
 |----------|-------------------|
 | **Atual (Tracker + Onix)** | R$ 6.496,00 |
-| **Novo (King GS + Onix)** | R$ 6.712,77 |
-| **DIFERENÇA** | **+R$ 216,77/mês** |
+| **Novo (King GS + Onix)** | R$ 6.757,21 |
+| **DIFERENÇA** | **+R$ 261,21/mês** |
 
 ---
 
 ### ✅ Resultado
 
 - **Desembolso**: R$ 45.000
-- **Gasto Mensal**: +R$ 216,77
-- **Economia 3 Anos**: R$ 79.928
-- **ROI**: 178%
+- **Gasto Mensal**: +R$ 261,21
+- **Economia 3 Anos**: R$ 73.156
+- **ROI**: 163%
 
 **⚠️ ATENÇÃO**: Se IPVA voltar em 2026/2027: +R$ 553/mês adicional
 
@@ -208,9 +210,10 @@
 | Seguro | R$ 203,00 |
 | IPVA | R$ 66,67 |
 | Manutenção | R$ 150,00 |
-| **TOTAL ONIX** | **R$ 2.423,00** |
+| Manutenção Prevista (AC + Suspensão) | R$ 44,44 |
+| **TOTAL ONIX** | **R$ 2.467,44** |
 
-**TOTAL MENSAL (2 carros)**: **R$ 6.791,68**
+**TOTAL MENSAL (2 carros)**: **R$ 6.836,12**
 
 ---
 
@@ -219,17 +222,17 @@
 | Situação | Custo Mensal (R$) |
 |----------|-------------------|
 | **Atual (Tracker + Onix)** | R$ 6.496,00 |
-| **Novo (Song + Onix)** | R$ 6.791,68 |
-| **DIFERENÇA** | **+R$ 295,68/mês** |
+| **Novo (Song + Onix)** | R$ 6.836,12 |
+| **DIFERENÇA** | **+R$ 340,12/mês** |
 
 ---
 
 ### ✅ Resultado
 
 - **Desembolso**: R$ 45.000
-- **Gasto Mensal**: +R$ 295,68
-- **Economia 3 Anos**: R$ 97.240
-- **ROI**: 216%
+- **Gasto Mensal**: +R$ 340,12
+- **Economia 3 Anos**: R$ 90.356
+- **ROI**: 201%
 
 **⚠️ ATENÇÃO**: Se IPVA voltar em 2026/2027: +R$ 667/mês adicional
 
@@ -385,10 +388,10 @@
 ## 🏆 RANKING FINAL - MELHOR PARA PIOR
 
 ### 1️⃣ **CENÁRIO 1: Tracker → Dolphin** ⭐⭐⭐
-- ✅ **ÚNICO que REDUZ custo mensal** (-R$ 556/mês)
+- ✅ **ÚNICO que REDUZ custo mensal** (-R$ 512/mês)
 - ✅ Menor desembolso (R$ 31.500)
-- ✅ Melhor ROI (258%)
-- ✅ Economia 3 anos: R$ 81.243
+- ✅ Melhor ROI (237%)
+- ✅ Economia 3 anos: R$ 74.627
 
 ### 2️⃣ **CENÁRIO 4: Onix → Dolphin** ⭐⭐
 - ✅ Menor desembolso (R$ 29.500)
@@ -401,8 +404,8 @@
 - ✅ **Bônus de R$ 10.000** (melhor condição de entrada)
 - ✅ Parcela menor (R$ 3.190 vs R$ 3.286 do Song)
 - ⚠️ Desembolso médio (R$ 45.000)
-- ⚠️ Aumento mensal (+R$ 217/mês)
-- ✅ Economia 3 anos: R$ 79.928
+- ⚠️ Aumento mensal (+R$ 261/mês)
+- ✅ Economia 3 anos: R$ 73.156
 - ⚠️ Risco IPVA voltar (+R$ 553/mês)
 
 ### 4️⃣ **CENÁRIO 3: Tracker → Song** ⭐
@@ -410,8 +413,8 @@
 - ❌ **Sem bônus** (pior condição)
 - ❌ Parcela maior (R$ 3.286 vs R$ 3.190 do King)
 - ⚠️ Desembolso médio (R$ 45.000)
-- ⚠️ Aumento mensal (+R$ 296/mês) - **MAIS CARO que King GS**
-- ✅ Maior economia 3 anos (R$ 97.240)
+- ⚠️ Aumento mensal (+R$ 340/mês) - **MAIS CARO que King GS**
+- ✅ Maior economia 3 anos (R$ 90.356)
 - ⚠️ Risco IPVA voltar (+R$ 667/mês)
 
 ### 5️⃣ **CENÁRIO 5: Tracker+Onix → Dolphin+Song** ❌
@@ -428,12 +431,13 @@
 ### 🥇 **MELHOR OPÇÃO: CENÁRIO 1 - Trocar Tracker por Dolphin Mini**
 
 **Por quê?**
-1. ✅ **ÚNICA opção que REDUZ custo mensal** (-R$ 556/mês)
+1. ✅ **ÚNICA opção que REDUZ custo mensal** (-R$ 512/mês)
 2. ✅ Menor desembolso inicial (R$ 31.500)
-3. ✅ Melhor ROI (258%)
-4. ✅ Economia significativa em 3 anos (R$ 81.243)
+3. ✅ Melhor ROI (237%)
+4. ✅ Economia significativa em 3 anos (R$ 74.627)
 5. ✅ Carro 100% elétrico (zero combustível)
 6. ✅ Manutenção mínima
+7. ✅ **Evita manutenção prevista do Onix** (AC R$ 1.000 + Suspensão R$ 600)
 
 **Desvantagens:**
 - ⚠️ IPVA fixo: R$ 400/mês (R$ 4.800/ano)
@@ -459,10 +463,10 @@
 ## 📊 RESUMO VISUAL
 
 ```
-CENÁRIO 1 (Tracker → Dolphin):     -R$ 556/mês  ✅ MELHOR
+CENÁRIO 1 (Tracker → Dolphin):     -R$ 512/mês  ✅ MELHOR
 CENÁRIO 4 (Onix → Dolphin):        +R$  79/mês  ✅ BOM
-CENÁRIO 2 (Tracker → King GS):     +R$ 217/mês  ✅ MAIS BARATO (com bônus)
-CENÁRIO 3 (Tracker → Song):        +R$ 296/mês  ⚠️ MAIS CARO (sem bônus)
+CENÁRIO 2 (Tracker → King GS):     +R$ 261/mês  ✅ MAIS BARATO (com bônus)
+CENÁRIO 3 (Tracker → Song):        +R$ 340/mês  ⚠️ MAIS CARO (sem bônus)
 CENÁRIO 5 (Ambos → Dolphin+Song):  +R$ 1.718/mês ❌ ALTO
 ```
 
@@ -476,6 +480,7 @@ CENÁRIO 5 (Ambos → Dolphin+Song):  +R$ 1.718/mês ❌ ALTO
 4. **Carregador**: Necessário apenas para Dolphin Mini (R$ 3.500)
 5. **Uso reduzido**: Carro mantido roda apenas 600 km/mês (economia significativa)
 6. **Cenário 5**: Custo mensal muito alto, não recomendado a menos que tenha necessidade específica de 2 carros novos
+7. **Manutenção Prevista Onix**: Ar condicionado (R$ 1.000) + Suspensão (R$ 600) = R$ 1.600 total, mensalizado em 36 meses = R$ 44,44/mês (incluído nos cenários que mantêm o Onix)
 
 ---
 
